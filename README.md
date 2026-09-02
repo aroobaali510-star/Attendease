@@ -30,7 +30,11 @@ A full-stack Android application built with Java, Android Studio, and Firebase.
 #### Realtime Database
 - Firebase Console → **Realtime Database** → Create Database
 - Start in **Test mode** (then apply rules below)
-- Copy your database URL (e.g. `https://attendease-default-rtdb.firebaseio.com/`)
+- Copy your database URL (e.g. 
+
+https://github.com/user-attachments/assets/f22fbb46-23d3-4568-bc97-3d5ca3a43353
+
+`https://attendease-default-rtdb.firebaseio.com/`)
 
 #### Update Database URL in FirebaseHelper.java
 Open `app/src/main/java/com/attendease/utils/FirebaseHelper.java` and update:
